@@ -61,7 +61,7 @@ LocaLead/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/localead.git
+git clone https://github.com/sfantaye/localead.git
 cd localead
 ```
 
@@ -153,7 +153,7 @@ MIT License
 ---
 
 ## 👨‍💻 Author
-Built by [Your Name]. Connect on [LinkedIn] or [Twitter]!
+Built by [Sintayehu Fantaye].
 
 ---
 
